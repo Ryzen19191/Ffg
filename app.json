@@ -1,7 +1,7 @@
 {
   "name": "your Botname",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ your name ",
-  "logo": "your image url",
+  "logo": "https://files.catbox.moe/h3ph44.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "your image url"
+      "value": "https://files.catbox.moe/h3ph44.jpg"
     }, 
     
     "ALIVE_MSG": {
