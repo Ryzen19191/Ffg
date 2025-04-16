@@ -1,7 +1,7 @@
 {
   "name": "your Botname",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ your name ",
-  "logo": "https://files.catbox.moe/h3ph44.jpg",
+  "logo": "your Logo image here",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/h3ph44.jpg"
+      "value": "Your Image Url"
     }, 
     
     "ALIVE_MSG": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦『Botname-MD』✦"
+      "value": "✦『KASHMIRI-MD』✦"
     }, 
 
     "HEART_REACT": {
